@@ -1,0 +1,1 @@
+/Users/devtides/Projects/rust/snake/target/debug/snake: /Users/devtides/Projects/rust/snake/src/draw.rs /Users/devtides/Projects/rust/snake/src/game.rs /Users/devtides/Projects/rust/snake/src/main.rs /Users/devtides/Projects/rust/snake/src/snake.rs

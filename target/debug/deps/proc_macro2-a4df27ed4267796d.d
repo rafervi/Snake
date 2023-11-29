@@ -1,0 +1,11 @@
+C:\Users\Ramon\Desktop\coders\snake\snake\target\debug\deps\libproc_macro2-a4df27ed4267796d.rmeta: C:\Users\Ramon\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-1.0.12\src\lib.rs C:\Users\Ramon\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-1.0.12\src\strnom.rs C:\Users\Ramon\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-1.0.12\src\detection.rs C:\Users\Ramon\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-1.0.12\src\fallback.rs C:\Users\Ramon\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-1.0.12\src\wrapper.rs
+
+C:\Users\Ramon\Desktop\coders\snake\snake\target\debug\deps\libproc_macro2-a4df27ed4267796d.rlib: C:\Users\Ramon\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-1.0.12\src\lib.rs C:\Users\Ramon\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-1.0.12\src\strnom.rs C:\Users\Ramon\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-1.0.12\src\detection.rs C:\Users\Ramon\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-1.0.12\src\fallback.rs C:\Users\Ramon\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-1.0.12\src\wrapper.rs
+
+C:\Users\Ramon\Desktop\coders\snake\snake\target\debug\deps\proc_macro2-a4df27ed4267796d.d: C:\Users\Ramon\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-1.0.12\src\lib.rs C:\Users\Ramon\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-1.0.12\src\strnom.rs C:\Users\Ramon\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-1.0.12\src\detection.rs C:\Users\Ramon\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-1.0.12\src\fallback.rs C:\Users\Ramon\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-1.0.12\src\wrapper.rs
+
+C:\Users\Ramon\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-1.0.12\src\lib.rs:
+C:\Users\Ramon\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-1.0.12\src\strnom.rs:
+C:\Users\Ramon\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-1.0.12\src\detection.rs:
+C:\Users\Ramon\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-1.0.12\src\fallback.rs:
+C:\Users\Ramon\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-1.0.12\src\wrapper.rs:
